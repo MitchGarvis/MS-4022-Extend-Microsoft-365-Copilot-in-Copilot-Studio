@@ -20,7 +20,7 @@ This exercise focuses on adding connector tools to an existing agent. This exerc
 
 Create a connector tool using the SharePoint List Folder prebuilt connector and add it to the agent.
 
-1. In your web browser, navigate to [Copilot Studio](https://www.copilotstudio.microsoft.com) at `https://www.copilotstudio.microsoft.com`.
+1. In your web browser, navigate to [Copilot Studio](https://www.copilotstudio.microsoft.com) at `https://copilotstudio.microsoft.com`.
 1. In the sidebar, select **Agents**.
 1. Select **Microsoft 365 Copilot**.
 1. Under **Agents**, select your **Product Support** agent.
